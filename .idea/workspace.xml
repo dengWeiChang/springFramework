@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97d4b820-2680-422a-b0d6-fdbde234ac35" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ConfPoetryConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-beans/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-beans/src/main/java/cn/springframework/beans/BeanInfoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-beans/src/main/java/cn/springframework/beans/BeansException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-beans/src/main/java/cn/springframework/beans/factory/Aware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-beans/src/main/java/cn/springframework/beans/factory/BeanClassLoaderAware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-beans/src/main/java/cn/springframework/beans/factory/BeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-core/src/main/java/cn/springframework/core/NestedExceptionUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-core/src/main/java/cn/springframework/core/NestedRuntimeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,28 +39,29 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;LINKC_FILTER_ACTION&quot;: &quot;all&quot;,
-    &quot;LINKC_GROUP_BY_USER_ACTION&quot;: &quot;ALL&quot;,
-    &quot;LINKC_SEARCH_ACTION&quot;: &quot;&quot;,
-    &quot;LINKC_SERVICE_ENABLE_KEY&quot;: &quot;0&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8.0_261&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dengweichang/IdeaProjects/framework&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "LINKC_FILTER_ACTION": "all",
+    "LINKC_GROUP_BY_USER_ACTION": "ALL",
+    "LINKC_SEARCH_ACTION": "",
+    "LINKC_SERVICE_ENABLE_KEY": "0",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8.0_261",
+    "last_opened_file_path": "/Users/dengweichang/IdeaProjects/framework",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.A">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.springframework.core.A" />
@@ -140,6 +124,7 @@
       <workItem from="1658230426892" duration="618000" />
       <workItem from="1658483249043" duration="10000" />
       <workItem from="1661928755195" duration="13000" />
+      <workItem from="1664363621052" duration="666000" />
     </task>
     <servers />
   </component>
