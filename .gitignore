@@ -3,21 +3,28 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-### IntelliJ IDEA ###
-.idea
+
+#  eclipse  ignore
+.metadata/
+.settings/
+.project
+.classpath
+.springBeans
+
+#  idea  ignore
+.idea/
 *.ipr
 *.iml
 *.iws
 
-
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
+#  temp  ignore
+logs/
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+*.swp
 
 ### NetBeans ###
 /nbproject/private/
